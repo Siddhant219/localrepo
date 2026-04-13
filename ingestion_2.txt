@@ -1,3 +1,4 @@
 this is a new file in 3rd feature branch
-
+changes are in feature_2
+this is a repeated file in 2nd feature branch
 now what can i do is make changes in feature1
