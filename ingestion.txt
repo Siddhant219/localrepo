@@ -2,3 +2,5 @@ ingestion of data
 realtime data is also added.
 
 adding batch data
+
+kitna padhega bhai
